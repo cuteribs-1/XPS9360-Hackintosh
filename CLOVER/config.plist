@@ -507,7 +507,7 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>MLB</key>
-		<string>C02T44YLHV2948484
+		<string>C02T44YLHV3355555
 C07QJ01TG1J1
 C07539200LCFYRFA5</string>
 		<key>ROM</key>
@@ -528,7 +528,7 @@ C07539200LCFYRFA5</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02T44YLHV2948484</string>
+		<string>C02T44YLHV3355555</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -558,7 +558,7 @@ C07539200LCFYRFA5</string>
 		<key>ProductName</key>
 		<string>MacBookPro14,1</string>
 		<key>SerialNumber</key>
-		<string>C02T44YLHV29</string>
+		<string>C02T44YLHV33</string>
 		<key>SmUUID</key>
 		<string>D3203FFE-12F2-4B2A-91D4-6D64175AE45D</string>
 		<key>Trust</key>
